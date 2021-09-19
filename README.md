@@ -10,7 +10,7 @@ Network Links
 
 
 <a href="https://www.linkedin.com/in/ravitejanitj"> 
-	<img src="https://img.shields.io/badge/Linked%20IN-blue?style=for-the-badge&logo=Linked%20IN&logoColor=Blue"/>
+	<img src="https://img.shields.io/badge/LinkedIN-blue?style=for-the-badge&logo=LinkedIN&logoColor=Blue"/>
 </a>
 
 
