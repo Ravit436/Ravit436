@@ -15,7 +15,7 @@ Network Links
 
 
 
-Open to work for Open Source and freelancing
+Interested for Open Source contribution
 
 
 <!--
